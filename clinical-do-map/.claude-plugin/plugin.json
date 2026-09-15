@@ -1,0 +1,6 @@
+{
+  "name": "clinical-do-map",
+  "version": "1.0.0",
+  "description": "Evidence-based terminology mapping with local vocabulary search, explicit review decisions, and protected CSV updates.",
+  "author": {"name": "Local developer"}
+}

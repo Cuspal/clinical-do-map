@@ -1,0 +1,4 @@
+sourceCode,sourceName,matchScore,conceptId,conceptName,domainId
+0001,Training procedure alpha,0.99,DEMO-P1,Training procedure alpha,Procedure
+0002,Training procedure beta,0.99,DEMO-P1,Training procedure alpha,Procedure
+0003,Unspecified training service,0.10,0,Unmapped,

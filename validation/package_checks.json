@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "checks": [
+    "codex: dry-run, copy, doctor, overwrite refusal",
+    "claude: dry-run, copy, doctor, overwrite refusal",
+    "codex-plugin: dry-run, copy, doctor, overwrite refusal",
+    "claude-plugin: dry-run, copy, doctor, overwrite refusal",
+    "Claude validates exported catalog and plugin",
+    "Public export: both catalogs, publisher metadata, separate license, no private files/local paths",
+    "Both ZIPs: integrity, license inclusion and SHA256 verification",
+    "Unlicensed export is explicitly labeled a draft"
+  ],
+  "global_installation": false,
+  "network_publication": false
+}

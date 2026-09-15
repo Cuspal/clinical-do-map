@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLINICAL DO MAP"
+  short_description: "Review and map terminology with a local audit trail"
+  default_prompt: "Use $do-map to review a terminology mapping against my local vocabulary and research priorities."

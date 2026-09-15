@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {"tag": "PCI_STEMI", "pattern": "coronar|\\bpci\\b|\\bptca\\b|myocard|\\bstemi\\b|\\bcabg\\b|cardiac catheter|heart catheter"},
+    {"tag": "stroke_reperfusion", "pattern": "thrombol|thrombect|embolect|cerebr|intracran|carotid|\\bstroke\\b"},
+    {"tag": "critical_care_mortality", "pattern": "resusc|defibrill|cardiov|ventilat|intubat|tracheost|dialysis|haemodial|hemodial|ecmo|balloon pump|assist device|haemofil|hemofil"},
+    {"tag": "infection_complications", "pattern": "abscess|debrid|infect|sepsis|septic|wound|haemorrhag|hemorrhag|bleeding|re.?explor|re.?oper|ruptur|perforat|tamponade|fistula|pressure (sore|ulcer)|removal of.*(stent|prosthe|implant)"}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clinical-do-map",
+  "version": "1.0.0",
+  "description": "Review terminology mappings against local vocabularies with explicit decisions, domain-specific checks, and an auditable CSV workflow.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "CLINICAL DO MAP",
+    "shortDescription": "Map and review terminology with an audit trail.",
+    "longDescription": "Search local Athena or canonical terminology exports, review every source row using domain and research context, and apply validated changes with backups and source hash checks.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": ["Use $do-map to review my terminology mapping and research priorities."]
+  }
+}
